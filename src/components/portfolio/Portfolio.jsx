@@ -1,56 +1,34 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio0.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.jpg'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/Titi porfolio.png'
+import IMG2 from '../../assets/Titi porfolio1.png'
+import IMG3 from '../../assets/Tech Hashira.png'
+
 
 
 const data = [
  {
   id: 1,
   image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
+  title:'My React Portfolio site',
+  github:'https://github.com/Titiess/portfolio',
   demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
 },
  {
   id: 2,
-  image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
+  image: IMG2,
+  title:'EaglesHub Website',
+  github:'https://github.com/Titiess/EaglesHub',
   demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
 },
  {
   id: 3,
-  image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
+  image: IMG3,
+  title:'Tech Hashira WordPress site',
   github:'https://github.com',
   demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
 },
- {
-  id: 4,
-  image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
-},
- {
-  id: 5,
-  image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
-},
- {
-  id: 6,
-  image: IMG1,
-  title:'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
-},
+ 
 ]
 
 const Portfolio = () => {
