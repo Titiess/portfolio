@@ -12,21 +12,21 @@ const data = [
   image: IMG1,
   title:'My React Portfolio site',
   github:'https://github.com/Titiess/portfolio',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
+  demo:'https://youtu.be/7bDqx8AYPzw'
 },
  {
   id: 2,
   image: IMG2,
   title:'EaglesHub Website',
   github:'https://github.com/Titiess/EaglesHub',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
+  demo:'https://youtu.be/RIn8NiiYAQQ'
 },
  {
   id: 3,
   image: IMG3,
   title:'Tech Hashira WordPress site',
   github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
+  demo:'https://youtu.be/cKIBMHR3f5E'
 },
  
 ]

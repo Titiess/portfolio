@@ -19,6 +19,12 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar:AVTR1,
+    name: 'Edidiong Umoren',
+    review: 'I started my blog with no website building skills or WordPress knowledge, I basically knew nothing about everything but the writing aspect of my business. But Otoabasi swopped in and took the wheels. He handled building my blog like a pro and I couldn\'t have asked for a more expert hand. I recommend Otoabasi a full one hundred percent and even over to any beginner to professional who wants their blog built or managed.'
+  
+  },
+  {
+    avatar:AVTR1,
     name: 'Aleksandra Badea',
     review: 'Otoabasi did a perfect job. He immediately fixed an issue I was trying to fix. He was very responsive and professional. He provided also feedback on what else I need to change on the website. Highly recommend! Thank you, Otoabasi for your help!'
   
@@ -35,12 +41,7 @@ const data = [
     review: 'I personally recommend this developer. He finish my project a day before the deadline and he was also very quick to fix all the issues I found, it\'s nice working with him. '
   
   },
-  {
-    avatar:AVTR1,
-    name: 'Edidiong Umoren',
-    review: 'I started my blog with no website building skills or WordPress knowledge, I basically knew nothing about everything but the writing aspect of my business. But Otoabasi swopped in and took the wheels. He handled building my blog like a pro and I couldn\'t have asked for a more expert hand. I recommend Otoabasi a full one hundred percent and even over to any beginner to professional who wants their blog built or managed.'
   
-  },
 ]
 
 const Testimonials = () => {

@@ -39,19 +39,16 @@ const About = () => {
             </div>
 
             <p>
-            I am an experienced Fullstack developer specialising in frontend tech like Wordpress,
-             Html5, CSS3, Javascript and React alongside with some backend tech like PHP, MSQL, Nodejs and python with more than 3 years of experience. 
-             I aim to create responsive, mobile and desk-top user friendly websites that take your business to the next level. 
-             The services I render include;
-
-(** Fixing of bugs
-** Revamping of other websites
-** Building website from scratch
+           I am a Web developer with a vast array of knowledge in different front and back end languages, responsive frameworks
+           and databases.</p><p> My <i>aim</i> is to "
+           ** Build website from scratch(Including React websites) to be responsive, mobile and desk-top user friendly
+           ** Revamping of other websites
 ** Making simple and complex animation using CSS3 and Sass
+ ** Fixing of bugs
 ** Creating WordPress sites using pluggins and elementors
 ** Creating Blogs using WordPress
-** Hosting( options included))
-            </p>
+** Hosting( options included)."</p>
+            
 
             <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
