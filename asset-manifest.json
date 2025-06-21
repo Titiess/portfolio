@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2579b085.css",
-    "main.js": "/portfolio/static/js/main.d1736373.js",
-    "static/media/ppics.png": "/portfolio/static/media/ppics.a81b6e9f73f8a664859d.png",
+    "main.css": "/portfolio/static/css/main.c577706e.css",
+    "main.js": "/portfolio/static/js/main.5851d385.js",
+    "static/media/ttiti.png": "/portfolio/static/media/ttiti.ab50c5885f69ed7b2a63.png",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.867877ba3e56acbe0cc0.jpg",
-    "static/media/Tech Hashira.png": "/portfolio/static/media/Tech Hashira.32ebae7a561f4bcb5547.png",
     "static/media/Titi porfolio1.png": "/portfolio/static/media/Titi porfolio1.5bdc6a6e80878f597bc2.png",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.fe398b14e62d04d3e409.pdf",
+    "static/media/ttiti.jpg": "/portfolio/static/media/ttiti.d9e7776af9213d29d32d.jpg",
+    "static/media/Islanddao.png": "/portfolio/static/media/Islanddao.b999faa99a43c9ea22ce.png",
     "static/media/Titi porfolio.png": "/portfolio/static/media/Titi porfolio.b308c067a8ad197c097b.png",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.2fab560a0d280459df40.pdf",
     "index.html": "/portfolio/index.html",
-    "main.2579b085.css.map": "/portfolio/static/css/main.2579b085.css.map",
-    "main.d1736373.js.map": "/portfolio/static/js/main.d1736373.js.map"
+    "main.c577706e.css.map": "/portfolio/static/css/main.c577706e.css.map",
+    "main.5851d385.js.map": "/portfolio/static/js/main.5851d385.js.map"
   },
   "entrypoints": [
-    "static/css/main.2579b085.css",
-    "static/js/main.d1736373.js"
+    "static/css/main.c577706e.css",
+    "static/js/main.5851d385.js"
   ]
 }
