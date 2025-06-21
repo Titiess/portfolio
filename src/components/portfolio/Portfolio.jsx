@@ -2,32 +2,34 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/Titi porfolio.png'
 import IMG2 from '../../assets/Titi porfolio1.png'
-import IMG3 from '../../assets/Tech Hashira.png'
+import IMG3 from '../../assets/Islanddao.png'
 
 
 
 const data = [
- {
+  {
   id: 1,
+  image: IMG3,
+  title:'Island DAO Website',
+  github:'https://github.com/Titiess/Island-DAO-rebrand.git',
+  demo:'https://islanddao.org/'
+},
+ {
+  
+  id: 2,
   image: IMG1,
   title:'My React Portfolio site',
   github:'https://github.com/Titiess/portfolio',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
+  demo:'https://titiess.github.io/portfolio/#'
 },
  {
-  id: 2,
+  id: 3,
   image: IMG2,
   title:'EaglesHub Website',
   github:'https://github.com/Titiess/EaglesHub',
   demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
 },
- {
-  id: 3,
-  image: IMG3,
-  title:'Tech Hashira WordPress site',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-crypto-currency-dashboards-and-financial-data-visualzation'
-},
+ 
  
 ]
 

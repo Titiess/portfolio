@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css'
-import ME from '../../assets/ppics.png'
+import ME from '../../assets/ttiti.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -37,21 +37,25 @@ const About = () => {
                   <small>30+ Completed</small>
               </article>
             </div>
-
+              <div>
             <p>
-            I am an experienced Fullstack developer specialising in frontend tech like Wordpress,
-             Html5, CSS3, Javascript and React alongside with some backend tech like PHP, MSQL, Nodejs and python with more than 3 years of experience. 
-             I aim to create responsive, mobile and desk-top user friendly websites that take your business to the next level. 
-             The services I render include;
+           I’m a Frontend Developer specializing in building modern, scalable, and responsive web applications using Next.js, React.js, Tailwind CSS, and TypeScript. With over 3 years of experience, I’ve helped startups and businesses bring their ideas to life through clean code, pixel-perfect UIs, and optimized performance.
 
-(** Fixing of bugs
-** Revamping of other websites
-** Building website from scratch
-** Making simple and complex animation using CSS3 and Sass
-** Creating WordPress sites using pluggins and elementors
-** Creating Blogs using WordPress
-** Hosting( options included))
-            </p>
+                I focus on delivering seamless user experiences across all devices, from mobile to desktop. My frontend skillset is complemented by experience in integrating REST APIs, using headless CMSs like Sanity or Strapi, and deploying apps on platforms like Vercel or Netlify.
+
+              <br />Here’s what I can help you with:
+              <ul className='about_list'>
+                  <li>Developing modern web apps with Next.js & React</li>
+                  <li>Building fully responsive UIs with Tailwind CSS or Sass</li>
+                  <li>Fixing frontend bugs and optimizing performance</li>
+                  <li>Revamping outdated websites with modern tech</li>
+                  <li>Creating dynamic sites using headless CMS</li>
+                  <li>Blog development and integration with CMS platforms</li>
+                  <li>Deployment, SEO optimization, and hosting setup</li>
+              </ul>
+
+            Let’s build something amazing together.
+            </p></div>
 
             <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>

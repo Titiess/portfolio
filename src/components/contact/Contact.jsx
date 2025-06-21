@@ -26,7 +26,7 @@ const contact = () => {
             <MdOutlineMail className='contact_option-icon' />
             <h4>Email</h4>
             <h5>odanieludo1@gmail.com</h5>
-            <a href="mailto:odanieludo1@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:odanieludo@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact_option">
             <RiMessengerLine className='contact_option-icon'/>
